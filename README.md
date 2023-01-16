@@ -9,6 +9,9 @@
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='32' width='32'>
   </a>
+  <a href='https://www.typescriptlang.org/'>
+  <img src='https://cdn.worldvectorlogo.com/logos/typescript-2.svg' height='32' width='32'>
+  </a>
   <a href='https://nodejs.org/en/'>
   <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg' height='32' width='32'>
   </a>
