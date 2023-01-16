@@ -2,7 +2,7 @@
 <p>
 <a href='http://alvaras.netlify.app'>Some of my work.</a>
 </p>
-<p>🌱 I’m currently learning TypeScript.</p>
+<p>🌱 I’m currently building CMS platform.</p>
 <p>📫 You can send me message via form on this<a href='http://alvaras.netlify.app'> website.</a></p>
 <h2>Skills</h2>
 <p>
